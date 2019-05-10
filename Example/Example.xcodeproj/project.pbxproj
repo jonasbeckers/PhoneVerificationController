@@ -214,7 +214,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "cd ..\n./Example/Pods/Swiftgen/bin/swiftgen";
+			shellScript = "cd ..\n./Example/Pods/Swiftgen/bin/swiftgen\n";
 		};
 /* End PBXShellScriptBuildPhase section */
 

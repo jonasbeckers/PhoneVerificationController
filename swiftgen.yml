@@ -3,5 +3,5 @@ output_dir: Source
 strings:
   inputs: Base.lproj/Localizable.strings
   outputs:
-    templateName: structured-swift4
+    templatePath: templates/strings.stencil
     output: Strings.swift
